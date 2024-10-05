@@ -41,3 +41,7 @@
                                               * baseDeDatos
                                               * validaciones
                                               * gestionVentas
+                                              
+## AUTOR ##
+  Pettinari Gabriel Alejandro
+- [@Gabriel Pettinari](https://github.com/GabrielPettyA)

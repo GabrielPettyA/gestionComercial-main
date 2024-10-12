@@ -1,7 +1,10 @@
 ## SISTEMA DE REGISTRO COMERCIAL.
 
 - REQUERIMIENTOS:
-                ► tener instalado mariadb.
+                ► Se debe tener instalado 'HeidiSQL'
+                  para utilizar la Base de Datos.
+                  https://www.heidisql.com/
+                ► Disponer de mariadb.
                 ► utilizar puerto 3306 o cambiar a puerto
                   de su preferencia en archivo 'baseDeDatos.py'
                   linea 7.
